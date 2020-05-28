@@ -1,2 +1,2 @@
-devserver: server11
+devserver: server2
 paymentdb : dbserver1
